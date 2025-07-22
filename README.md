@@ -6,7 +6,7 @@
 ## 🔧 Tech Expertise
 
 - **Frontend**: HTML, CSS, JavaScript – Crafting engaging and responsive user interfaces.
-- **PHP Frameworks**: 4 years of hands-on experience with Laravel, Zend, and CodeIgniter to develop robust applications.
+- **PHP Frameworks**: 4 years of hands-on experience with Laravel and CodeIgniter to develop robust applications.
 - **CMS**: WordPress – Custom theme/plugin development and content-rich site building.
 - **Backend & Databases**: Proficient in PHP (OOP), SQL, MySQL, and PostgreSQL for efficient data handling.
 - **Web Servers**: Experience with configuring and deploying on Apache/Nginx.
