@@ -26,5 +26,5 @@
 ## 📫 Let's Connect
 
 - 📧 Email: [kowsalyam2611@gmail.com](mailto:kowsalyam2611@gmail.com)  
-- 📱 WhatsApp: +91-8608006369  
+- 📱 WhatsApp: +91-9176143218
 - 💼 LinkedIn: [linkedin.com/in/kowsalya-m-2938a3278](https://www.linkedin.com/in/kowsalya-m-2938a3278)
